@@ -5,6 +5,6 @@
 24년 1월 9일  
 
 # 진행 상황
-Chapter 1. 파이썬 &ensp;(240109 - 240109)  
+Chapter 1. 파이썬 &ensp;&ensp;(240109 - 240109)  
 Chapter 2. 퍼셉트론 (240110 - 240110)  
-Chapter 3. 신경망 &ensp;(240110 - )
+Chapter 3. 신경망 &ensp;&ensp;(240110 - )
