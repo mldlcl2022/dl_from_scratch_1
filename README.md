@@ -1,5 +1,5 @@
 # 밑바닥부터 시작하는 딥러닝 1
-### Deep Learning from scratch 1
+## Deep Learning from scratch 1
 사이토 고키 지음, 개앞맵시 옮김, 한빛미디어  
 
 # 공부 시작 날짜
