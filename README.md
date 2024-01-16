@@ -1,6 +1,9 @@
 # 밑바닥부터 시작하는 딥러닝 1
 사이토 고키 지음, 이복연 옮김, 한빛미디어  
 
+# Github Link
+https://github.com/WegraLee
+
 # 공부 시작 날짜
 24년 1월 9일  
 
