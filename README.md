@@ -14,6 +14,6 @@ Chapter 2. 퍼셉트론 &ensp;&ensp;&ensp;&ensp;(240110 - 240110)
 Chapter 3. 신경망 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(240110 - 240112)  
 Chapter 4. 신경망 학습 &ensp; (240115 - 240122)  
 Chapter 5. 오차역전파법 (  
-Chapter 6. 학습 관련 기술들 &ensp;&ensp; (  
-Chapter 7. 합성곱 신경망(CNN) (  
+Chapter 6. 학습 관련 기술들 &ensp;&ensp;&ensp; (  
+Chapter 7. 합성곱 신경망(CNN) &ensp; (  
 Chapter 8. 딥러닝 (  
